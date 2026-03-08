@@ -1,3 +1,4 @@
+# Frontend Engineering Knowledge Map
 
 A structured map of the knowledge areas required to become a senior frontend engineer.  
 Each section can later become its own note and be connected through internal links in [[Obsidian]].
