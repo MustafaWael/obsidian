@@ -1,3 +1,4 @@
+# Software Engineering Mental Models
 
 Mental models are simplified ways of understanding how systems behave.  
 They help engineers make better decisions about architecture, tools, and complexity.
@@ -53,10 +54,10 @@ There is no perfect solution — only trade-offs.
 
 **Example**
 
-| Choice | Benefit | Cost |
-|------|------|------|
-| Framework | Faster development | Less control |
-| Low-level code | High control | More complexity |
+| Choice         | Benefit            | Cost            |
+| -------------- | ------------------ | --------------- |
+| Framework      | Faster development | Less control    |
+| Low-level code | High control       | More complexity |
 
 **Takeaway**
 
