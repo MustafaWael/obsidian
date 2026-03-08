@@ -1,1 +1,0 @@
-This note from mobile 
