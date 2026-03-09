@@ -1,0 +1,18 @@
+- how the frontend actually works from the ground?
+- why using browsers?
+- how domains works?
+- networking?
+- how browser works?
+- how js runs inside the browser, or how browser understand js and run it?
+- how the browser render the paint the ui and render it?
+- browser APIs, storage like locale, session, IndexedDB, etc..
+- what is html, css, js?
+- what are the available engines?
+- what is the problem with this approach in real world? and how to solves it with modern solution built in js (web component) and frontend libs and frameworks?
+- app bundle and popular bundler WebPack, vite, etc...
+- i will choose reactjs and dive deep into it to understand the problem it solves, why and how it solves it.
+- handling react state management (global, local, shared, lifted)
+- server state management
+- what is the component design (compound component) what is the problem and how it fixes it.
+- the available react architectures FSD, Clean Architecture, atomic design, etc...
+- moving to angular and understand it
