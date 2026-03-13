@@ -15,4 +15,5 @@
 - server state management
 - what is the component design (compound component) what is the problem and how it fixes it.
 - the available react architectures FSD, Clean Architecture, atomic design, etc...
-- moving to angular and understand it
+- moving to angular and understand it, what the problem it solves, and how it works, what is the approach it take and its trade-offs
+- what is redwood and what the problem it solves, and how it works, what is the approach it take and its trade-offs
