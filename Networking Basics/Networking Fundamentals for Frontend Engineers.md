@@ -85,11 +85,8 @@ Massive address space
 Benefits:
 
 - virtually unlimited addresses
-    
 - improved routing
-    
 - built-in security features
-    
 
 ---
 
